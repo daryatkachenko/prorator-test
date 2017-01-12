@@ -1,0 +1,16 @@
+{
+  "name": "angular2-junior-test",
+  "version": "0.0.0",
+  "license": "MIT",
+  "angular-cli": {},
+  "scripts": {
+    "ng": "ng",
+    "start": "lite-server"
+  },
+  "private": true,
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "devDependencies": { 
+  }
+}

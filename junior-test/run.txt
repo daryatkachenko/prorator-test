@@ -1,0 +1,9 @@
+install nodejs from https://nodejs.org/en/download/ 
+
+in this folder run "npm i"
+
+after all packages installed run "npm start"
+
+find bugs , make bug reports
+
+test this app with protractor http://www.protractortest.org/#/
